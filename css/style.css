@@ -1,7 +1,18 @@
-h1{
-	color: blue;
+.nav-link {
+	color: #444;
+}
+.nav-link .active{
+	color: #30a3f0;
 }
 
-ul	{
-	color: gray;
+.title p {
+	color: #30a3f0;
 }
+
+.title h1 {
+	color: #fff;
+}
+
+.btn {
+	color: #30a3f0;
+} 
